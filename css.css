@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    
+}
+#App{
+    background-color: cyan;
+}
+
+#Chatbot{
+    background-color: crimson;
+
+}
+#games{
+    background-color: dodgerblue;
+}
+.line{
+    height: 7px;
+    background-color: black;
+    width: 80px;
+    margin: 8px auto;
+    
+}
+img{
+    transition: transform.0.56s;
+    
+}
+img:hover{
+    transform: scale(0.9);
+}
